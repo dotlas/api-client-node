@@ -1,5 +1,11 @@
 # @\_dotlas/api
 
+<!-- Badges -->
+
+![npm](https://img.shields.io/npm/v/@_dotlas/api)
+![node-current](https://img.shields.io/node/v/@_dotlas/api)
+![GitHub last commit](https://img.shields.io/github/last-commit/dotlas/api-client-node)
+
 A simple client for the [Dotlas REST API](https://api.dotlas.com/docs).
 
 ## Installation
