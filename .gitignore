@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Dependency cache
+node_modules/
+/.pnp
+.pnp.js
+
+# Build
+dist
+
+# TypeScript
+*.tsbuildinfo
+
+# Lint cache
+.eslintcache

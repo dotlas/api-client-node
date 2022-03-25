@@ -1,0 +1,36 @@
+{
+  // Auto Close Tag
+  "auto-close-tag.activationOnLanguage": [
+    "html",
+    "javascript",
+    "javascriptreact",
+    "markdown",
+    "mdx",
+    "plaintext",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  // Editor
+  "editor.autoClosingQuotes": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.occurrencesHighlight": false,
+  "editor.tabSize": 2,
+
+  // Emmet
+  "emmet.showAbbreviationSuggestions": false,
+
+  // ESLint
+  "eslint.probe": ["html", "javascript", "markdown", "typescript"],
+  "eslint.validate": ["javascript", "mdx", "typescript"],
+
+  // Files
+  "files.trimTrailingWhitespace": true,
+
+  // GitLens
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+
+  // Prettier
+  "prettier.withNodeModules": true
+}
